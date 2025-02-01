@@ -1,21 +1,21 @@
-**Introduction to C Language**
+# Introduction to C Language
 
 C is a powerful and widely used programming language. It was developed by Dennis Ritchie in 1972 at Bell Labs. C is known for its speed, efficiency, and flexibility, making it popular for system programming, game development, and embedded systems.
 
-**Why Learn C?**
+# Why Learn C?
 + It is the foundation of many modern languages like C++, Java, and Python.
 + It is fast and efficient.
 + It allows low-level memory manipulation.
 + It is widely used in operating systems, databases, and embedded systems.
   
-**Basic Features of C**
+# Basic Features of C
 
 + Simple and structured.
 + Supports functions and modular programming.
 + Uses pointers for memory management.
 + Allows direct hardware interaction.
 
-**Basic Structure of a C Program**
+# Basic Structure of a C Program
 
 Every C program follows a simple structure:
 #include <stdio.h>
