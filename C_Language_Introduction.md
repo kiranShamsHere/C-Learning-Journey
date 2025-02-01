@@ -34,6 +34,6 @@ int main() {
 
 + **return 0;:** Ends the program successfully.
 
-**Conclusion**
+# Conclusion
 
 C is a great language to start programming because it teaches fundamental concepts that are useful in other languages. Learning C helps you understand how computers work at a lower level, making you a better programmer.
